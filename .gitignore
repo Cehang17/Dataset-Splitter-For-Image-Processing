@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ortamlar / Environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDE & Editör
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Veri Seti Dosyaları (Büyük verilerin kazara commit edilmesini önler)
+images/
+labels/
+silinenler/
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Sistem
+.DS_Store
+Thumbs.db
